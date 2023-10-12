@@ -1,0 +1,20 @@
+.Carousel-main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.Carousel-main > svg {
+  cursor: pointer;
+  margin: 10px;
+  color: #aaa;
+}
+
+.Carousel-main > svg:hover {
+  color: black;
+}
+
+svg {
+  height: 50px;
+  width: 50px;
+}

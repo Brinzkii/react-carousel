@@ -1,0 +1,62 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="Carousel"
+  >
+    <h1>
+      Render Test
+    </h1>
+    <div
+      class="Carousel-main"
+    >
+      <svg
+        class="leftArrow"
+        fill="currentColor"
+        height="1em"
+        viewBox="0 0 16 16"
+        width="1em"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-4.5-.5a.5.5 0 0 1 0 1H5.707l2.147 2.146a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L5.707 7.5H11.5z"
+          fill-rule="evenodd"
+        />
+      </svg>
+      <div
+        class="Card"
+      >
+        <h4
+          class="Card-title"
+        >
+          testing image 1
+        </h4>
+        <img
+          alt="testing image 1"
+          class="Card-image"
+          src="test1.com"
+        />
+        <small
+          class="Card-small"
+        >
+          Image 1 of 3.
+        </small>
+      </div>
+      <svg
+        class="rightArrow"
+        fill="currentColor"
+        height="1em"
+        viewBox="0 0 16 16"
+        width="1em"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+          fill-rule="evenodd"
+        />
+      </svg>
+    </div>
+  </div>
+</DocumentFragment>
+`;
